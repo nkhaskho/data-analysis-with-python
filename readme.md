@@ -7,9 +7,6 @@ https://cognitiveclass.ai/courses/data-analysis-python/
 This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analyses, create meaningful data visualizations, predict future trends from data, and more! 
 
 
-This project can help you to understands the essential steps necessary to analyze data in Python using multi-dimensional arrays, manipulating DataFrames in pandas, using SciPy library of mathematical routines and performing machine learning using scikit-learn module.
-
-
 You have to install dependencies before start using this project.
 I had prepared all of thoes dependencies, so you can install all of them by running
 
