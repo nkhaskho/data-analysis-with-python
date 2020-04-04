@@ -36,14 +36,14 @@ This course still available on [IBM Cognitive Class](https://cognitiveclass.ai/c
 + Correlation
 + Correlation statistics
 
-### [M4 - Model Developement](https://github.com/naiim-khaskhoussi/data-analysis-with-python/tree/master/m4-model-developement) 
+### [M4 - Model Development](https://github.com/naiim-khaskhoussi/data-analysis-with-python/tree/master/m4-model-development) 
 + Simple and multiple Linear Regression
 + Model evaluation using visualization
 + Polynomial regression and Pipelines
 + Measures for in-sample evaluation
 + Prediction and decision making
 
-### [M5 - Model Evaluation](https://github.com/naiim-khaskhoussi/data-analysis-with-python/tree/master/m5-model-avaluation) 
+### [M5 - Model Evaluation](https://github.com/naiim-khaskhoussi/data-analysis-with-python/tree/master/m5-model-evaluation) 
 + Model evaluation
 + Ridge regression
 + Grid search
